@@ -1,0 +1,13 @@
+node_modules
+
+coverage
+.coverage.json
+
+lib
+build
+!build/contracts/Dubiex.json
+!build/contracts/Types.json
+
+# OpenZeppelin
+.openzeppelin/dev*.json
+.openzeppelin/.session
